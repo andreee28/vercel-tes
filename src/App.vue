@@ -13,6 +13,9 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
+    <p>
+      tes
+    </p>
     <TheWelcome />
   </main>
 </template>
