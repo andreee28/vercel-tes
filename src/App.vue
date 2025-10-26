@@ -16,7 +16,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <p>
       tes
 
-      pai pepek
+  
     </p>
     <TheWelcome />
   </main>
